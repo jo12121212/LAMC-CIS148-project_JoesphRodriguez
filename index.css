@@ -11,7 +11,7 @@ body {
     font-size: 100%;
     width: 800px;
     margin: 0 auto;
-    border: 3px solid #931420;
+    border: 3px solid steelblue;
     background-color: #fffded;
 }
 a:focus, a:hover {
@@ -32,7 +32,7 @@ header {
 }
 header h2 {
 	font-size: 175%;
-	color: #800000;
+	color: blue;
 }
 header h3 {
 	font-size: 130%;
@@ -153,6 +153,15 @@ aside img {
 footer {
 	background-color: #931420;
 	clear: both;
+	border-bottom: 3px solid steelblue;
+		background-image: -moz-linear-gradient(
+	    30deg, #4738c5 0%, #4738c5 30%, white 50%, #4738c5 80%, #4738c5 100%);
+	background-image: -webkit-linear-gradient(
+	    30deg, #4738c5 0%, #fffded 30%, white 50%, #fffded 80%, #4738c5 100%);
+	background-image: -o-linear-gradient(
+	    30deg, #4738c5 0%, #fffded 30%, white 50%, #fffded 80%, #4738c5 100%);
+	background-image: linear-gradient(
+	    30deg, #4738c5 0%, #fffded 30%, white 50%, #fffded 80%, #4738c5 100%);
 
 }
 footer p {
