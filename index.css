@@ -43,7 +43,7 @@ header img {
 	padding: 0 30px;
 }
 .shadow {
-	text-shadow: 2px 2px 2px #800000;
+	text-shadow: 2px 2px 2px steelblue;
 }
 /* the styles for the navigation menu */
 #nav_menu ul {
