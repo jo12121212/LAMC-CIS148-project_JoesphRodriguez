@@ -96,7 +96,7 @@ section {
 	padding: 0 20px 20px 20px;
 }
 section h1 {
-	color: #800000;
+	color: steelblue;
 	font-size: 150%;
 	padding-top: .5em;
 	margin: 0;
@@ -136,7 +136,7 @@ aside {
 	padding: 0 0 20px 20px;
 }
 aside h2 {
-	color: #800000;
+	color: steelblue;
 	font-size: 130%;
 	padding: .5em 0 .25em 0;
 }
