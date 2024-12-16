@@ -39,6 +39,7 @@ header h3 {
 	font-style: italic;
 }
 header img {
+	width:20%;
 	float: left;
 	padding: 0 30px;
 }
