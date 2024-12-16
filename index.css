@@ -59,7 +59,10 @@ video {
 img {
   width: 50%; 
 }
+article img {
+      width: 75%;
 
+}
 #nav_menu ul li {
 	float: left;
 }
